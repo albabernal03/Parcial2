@@ -20,3 +20,12 @@ El ensamblaje de matrices de rigidez global se realizó con éxito, asegurando l
 
 -----------------------------------------------------
 <h2>Visualizaciones:</h2>
+
+![parcial2](https://github.com/albabernal03/Parcial2/assets/91721875/a6eb427e-2a2c-439e-98eb-94f5224f4ab8)
+
+![parcial2 1](https://github.com/albabernal03/Parcial2/assets/91721875/0abb0270-7259-4703-9c7f-dc9d5a36cd92)
+
+![parcial2 2](https://github.com/albabernal03/Parcial2/assets/91721875/b4472417-e26e-4816-afe6-e6eaa14bcc78)
+
+![parcial2 3](https://github.com/albabernal03/Parcial2/assets/91721875/be3e5897-2f38-4fde-8086-6d2da1b71cd6)
+
