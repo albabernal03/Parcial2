@@ -4,6 +4,8 @@
 
 Este es el link del [repositorio](https://github.com/albabernal03/Parcial2/tree/main)
 
+-------------------------------------------------
+
 <h2>Resolución:</h2>
 
 En este proyecto, hemos abordado un desafío en ingeniería digital propuesto por la Universidad Alfonso X "El Sabio". Nos hemos centrado en la aplicación del Método de Elementos Finitos (MEF) 3D, combinando Python y herramientas como Paraview para el análisis y visualización de estructuras.
