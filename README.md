@@ -6,7 +6,7 @@ Este es el link del [repositorio](https://github.com/albabernal03/Parcial2/tree/
 
 <h2>Resolución:</h2>
 
-En este proyecto, hemos abordado un desafío en ingeniería digital propuesto por la Universidad Alfonso X "El Sabio". Nos hemos centrado en la aplicación del Método de Elementos Finitos (MEF) 3D, combinando Python y herramientas como Paraview para el análisis y visualización de estructuras.//
+En este proyecto, hemos abordado un desafío en ingeniería digital propuesto por la Universidad Alfonso X "El Sabio". Nos hemos centrado en la aplicación del Método de Elementos Finitos (MEF) 3D, combinando Python y herramientas como Paraview para el análisis y visualización de estructuras.
 
 Nuestro trabajo comenzó con la generación de un arreglo tridimensional que representa un dominio estructural básico utilizando Python, seguido por la exportación de resultados de análisis estructural a formatos compatibles con Paraview. Para esto, hemos utilizado bibliotecas estándar como NumPy y Pandas, garantizando la precisión y legibilidad de nuestros datos.
 
