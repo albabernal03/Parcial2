@@ -15,3 +15,5 @@ Además, implementamos funciones auxiliares en Python para calcular el tensor de
 En el pre-procesamiento de datos, generamos un mallado de tetraedros a partir de geometría básica proporcionada, mientras que la implementación de funciones de forma nos permitió realizar análisis más detallados en puntos específicos del dominio.
 
 El ensamblaje de matrices de rigidez global se realizó con éxito, asegurando la validez y eficiencia de nuestros modelos. Finalmente, desarrollamos un solver para el sistema de ecuaciones resultante del MEF y generamos visualizaciones impactantes de tensiones y deformaciones en la estructura analizada utilizando Paraview, descargado de su página oficial para garantizar su integridad y fiabilidad.
+
+<h2>Visualizaciones:</h2>
