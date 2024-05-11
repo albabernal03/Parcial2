@@ -6,6 +6,14 @@ Este es el link del [repositorio](https://github.com/albabernal03/Parcial2/tree/
 
 -------------------------------------------------
 
+<h2>Antes de comenzar:</h2>
+
+Para instalar todas las dependencias del proyecto, simplemente ejecuta el siguiente comando en tu terminal estando en el directorio del proyecto y con tu entorno virtual activado:
+
+```
+pip install -r requirements.txt
+```
+---------------------------------
 <h2>Resolución:</h2>
 
 En este proyecto, hemos abordado un desafío en ingeniería digital propuesto por la Universidad Alfonso X "El Sabio". Nos hemos centrado en la aplicación del Método de Elementos Finitos (MEF) 3D, combinando Python y herramientas como Paraview para el análisis y visualización de estructuras.
